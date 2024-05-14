@@ -1,0 +1,5 @@
+Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program
+
+{3,7,4,4,2,9,10,21,2,33,10,1,1};
+
+output 4 2 10

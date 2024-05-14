@@ -1,0 +1,9 @@
+Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan program
+
+Bu kod, 2'nin 3. kuvvetini hesaplamak içindir
+
+*********senaryo*****************
+taban 2 ve üs 3 degerini gireriz
+
+2 üzeri 3'ü hesaplar ve sonucu ekrana yazdırır.
+Sonuç olarak 8 elde edilir.

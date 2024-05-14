@@ -1,0 +1,40 @@
+Burç Bulan Program
+
+Girilen ay ve gün bilgisine göre burcunuzu söyleyen program
+
+
+//Oglak Burcu: 1 - 21 Ocak
+//Kova Burcu : 22 - 31 Ocak
+
+//Kova Burcu :1 - 19 Şubat
+//Balık Burcu :20 - 30 Şubat
+
+//Balık Burcu:1 - 20 Mart
+//Koç Burcu  :21 - 31 Mart
+
+//Koç  Burcu:1 - 20 Nisan
+//Boğa Burcu :21 - 30 Nisan
+
+//Boğa Burcu  :1 - 21 Mayıs
+//İkizler Burcu:22 - 31 Mayıs
+
+//İkizler Burcu :1 - 22 Haziran
+//Yengeç Burcu :23 - 30 Haziran
+
+//Yengeç Burcu:1 - 22 Temmuz
+//Aslan Burcu :23 - 31 Temmuz
+
+//Aslan Burcu :1 - 22 Ağustos
+//Başak Burcu :23 -31 Ağustos
+
+//Başak Burcu :1 - 22 Eylül
+//Terazi Burcu:23 - 30 Eylül
+
+//Terazi Burcu : 1 - 22 Ekim
+//Akrep Burcu  : 23 - 31 Ekim
+
+//Akrep Burcu :1 - 22 Kasım
+//Yay Burcu   :22 - 30 Kasım
+
+//Yay  Burcu  :1 - 22 Aralık
+//Oğlak  Burcu :22 - 31 Aralık

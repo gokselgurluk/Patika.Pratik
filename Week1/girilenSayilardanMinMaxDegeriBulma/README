@@ -1,0 +1,11 @@
+Eğer 96 sayısını girdiyseniz, program 0 ile 96 arasındaki 3 ve 4'e tam bölünebilen sayıların ortalamasını hesaplayacaktır. Bu durumda, 0'dan başlayarak 96'ya kadar olan ve hem 3'e hem de 4'e tam bölünebilen sayıları bulacaktır.
+
+Bu sayılar şunlardır: 12, 24, 36, 48, 60, 72, 84 ve 96.
+
+Bu sayıların toplamı: 12 + 24 + 36 + 48 + 60 + 72 + 84 + 96 = 432
+
+Bu sayıların toplamı 432'dir ve bu sayıların toplamı 8'e bölündüğünde, elde edilen sonuç ortalamayı verecektir.
+
+Ortalama = 432 / 8 = 54
+
+Bu durumda, 0 ile 96 arasındaki 3 ve 4'e tam bölünebilen sayıların ortalaması 54 olacaktır.

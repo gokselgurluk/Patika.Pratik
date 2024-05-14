@@ -1,0 +1,10 @@
+Harmonik Seri Formülü:
+
+H_n, harmonik seri toplamını temsil eder.
+n, toplam terim sayısını temsil eder.
+
+H_n = 1/1 + 1/2 + 1/3 + 1/4 + ... + 1/n
+
+******************senaryo*************
+
+kullanıcı 2 girerese sonuc 1.5 cıkacaktır
